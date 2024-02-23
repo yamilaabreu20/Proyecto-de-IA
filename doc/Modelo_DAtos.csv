@@ -1,4 +1,2 @@
-Nombre,Apellidos,Edad
-Ana,García,30
-Carlos,Rodríguez,25
-María,López,28
+=== Tabla datos de alarmas ===
+Ultima_fecha,Primera_fecha,ID_equipo,Nombre_equipo,Componente_equipo,ID_lugar_alarma,Nombre_alarma,Tipo_alarma,Probable_causa,Severidad,Urgencia,Estados_componente,Cant_ocurrencias
